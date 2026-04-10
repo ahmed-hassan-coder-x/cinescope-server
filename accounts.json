@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    {
+      "username": "The-Acx",
+      "password": "202cb962ac59075b964b07152d234b70",
+      "device_id": "fb04cd1e0e607973",
+      "plan": "VIP",
+      "expires": "9999-99-99",
+      "active": false
+    },
+    {
+      "username": "Acx",
+      "password": "1234",
+      "device_id": "6c7e548f39695258",
+      "plan": "VIP",
+      "expires": "9999-99-99",
+      "active": true
+    }
+  ]
+}

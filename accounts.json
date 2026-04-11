@@ -12,8 +12,8 @@
       "username": "Acx",
       "password": "1234",
       "device_id": "6c7e548f39695258",
-      "plan": "VIP",
-      "expires": "9999-99-99",
+      "plan": "FREE",
+      "expires": "1970-01-01",
       "active": true
     }
   ]

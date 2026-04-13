@@ -15,6 +15,14 @@
       "plan": "FREE",
       "expires": "2026-07-01",
       "active": true
+    },
+    {
+      "username": "SASA",
+      "password": "yLofPXxWaYnN",
+      "device_id": "c186cd9d7836dcef",
+      "plan": "VIP",
+      "expires": "9999-99-99",
+      "active": true
     }
   ]
 }
